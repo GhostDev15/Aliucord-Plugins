@@ -55,5 +55,4 @@ public class BetterDashless extends Plugin {
 	@Override
 	public void stop(Context context) {
 		patcher.unpatchAll();
-	}
-}
+	}}
