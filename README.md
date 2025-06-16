@@ -1,7 +1,7 @@
 # Aliucord Plugins
 
 Plugins for the android discord mod [Aliucord](https://github.com/Aliucord)
-a
+
 ## [Timestamps](https://github.com/MrAn0nym/Aliucord-Plugins/tree/main/Timestamps)
 Generates unix timestamps for discord and copies it to the clipboard.
 Everyone else will see see generated date/time adjusted to their timezone.
